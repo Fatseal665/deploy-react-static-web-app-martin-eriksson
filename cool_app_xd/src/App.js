@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Denna app är lite cool ändå. Eller?</h1>
+        <h1>Varför Docker så bra? Det finns många VALmöjligheter</h1>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
